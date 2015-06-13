@@ -1,0 +1,27 @@
+//PROJECT: BOOTSTRAP
+//************************************************************
+
+//LIST OF 11 VIDEOS (personal project)
+https://www.youtube.com/watch?v=PZGyRz69xgc&list=PLZL68elhOXv8w18dKzui2qZ2KjH6X8gIG
+1- Bootstrap - Introdução Básica HTML e CSS
+2- Bootstrap - Crie Menus Responsivos e Códigos Semânticos
+3- 
+
+
+//GIT AND GITHUB**********************************************
+
+//Tell Git your name so your commits will be properly labeled
+git config --global user.name "YOUR NAME"
+
+//Tell Git the email address that will be associated with your Git commits
+git config --global user.email "YOUR EMAIL ADDRESS"
+
+//List your existing remotes in order to get the name of the remote you want to change.
+git remote -v
+
+//Change your remote's URL from HTTPS to SSH with the remote set-url command.
+git remote set-url origin git@github.com:atafs/FrontEnd_frameBOOTSTRAP_v3.3.4.git
+
+//
+git remote add origin ssh://login@IP/path/to/repository
+
