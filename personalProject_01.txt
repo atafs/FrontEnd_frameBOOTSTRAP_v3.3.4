@@ -9,7 +9,6 @@ https://www.youtube.com/watch?v=PZGyRz69xgc&list=PLZL68elhOXv8w18dKzui2qZ2KjH6X8
 
 
 //GIT AND GITHUB**********************************************
-
 //Tell Git your name so your commits will be properly labeled
 git config --global user.name "YOUR NAME"
 
